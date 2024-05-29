@@ -37,7 +37,7 @@ Read through each step before you begin and be aware that there are some FAQs at
 <summary> Step 1: Fork This Repo </summary>
 <br>
 
-    https://github.com/makersacademy/cv
+   https://github.com/BecksHookham/Github_CV/blob/main/template.md
 
         Please don't rename the repo - leave it as /cv
   
