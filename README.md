@@ -3,7 +3,7 @@
 
 _________________________________________________________________________________________
 **TL; DR**
-* Please fork and complete this [CV template](https://github.com/makersacademy/cv)
+* Please fork and complete this [[CV template](https://github.com/makersacademy/cv](https://github.com/BecksHookham/Github_CV/blob/main/template.md))
 * This task should take you at least two hours
 * You'll find some recorded CV walkthroughs within this guide.
 _________________________________________________________________________________________
