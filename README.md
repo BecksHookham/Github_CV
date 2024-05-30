@@ -151,7 +151,7 @@ ________________________________________________________________________________
 
 Regardless of your level of experience, writing a CV for a new industry can bring up a lot of uncomfortable emotions. Feelings of inadequacy and insecurity, thoughts of not having a “good enough” background or one that “ doesn’t make sense” are normal and you’re probably feeling these along with the rest of your cohort at the moment. Give yourself a little hug and move on.
   
-Remember this is a first draft and a chance to gather your ideas and reflect on the past. Try writing notes or mindmaps before you commit to writing. If all else fails, just write a rubbish CV. You will have plenty of time to refactor and test it through your journey at Makers.
+Remember this is a first draft and a chance to gather your ideas and reflect on the past. Try writing notes or mindmaps before you commit to writing. If all else fails, just write a rubbish CV and refactor it like code.
 
 </details>
 
@@ -173,19 +173,6 @@ Again, this is a common feeling and your journey success coach will support you 
 
 </details>
 
-__________________________________________________________________________________________________________________________________________________________
-
-<details>
-<summary>What happens next?</summary>
-<br>
-
-
-When you graduate you’ll be able to add the technical projects you’ve created at Makers and the languages you’ve learned. 
-The careers support team will run a workshop in the week after you graduate which give you the chance to ask questions and gather a little more context. You’ll also have an individual CV review with your personal journey success coach who will be allocated to you after you graduate.
-
-If you’d like some CV coaching now, you can contact @becks on slack. Becks will be happy to take a quick look or answer any questions. 
-
-</details>
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -296,35 +283,10 @@ There are three reasons for this.
  
 </details>
 
-__________________________________________________________________________________________________________________________________________________________
-
-<details>
-<summary>What is a journey success coach?</summary>
-<br>
-    
-We have a team of trained coaches (some are trained life coaches and some are trained career coaches) whose role at Makers is to work with you individually after you graduate and make sure that you have a clear learning plan, are managing interview anxiety, and are generally feeling positive about your job-hunt. They offer CV reviews, can talk to you about your job-hunting strategy, organise mock interviews, and are generally able to offer a space just for you to talk. You might want to speak a lot about your CV or you might be having a really difficult time managing your mood and motivation. 
-
-You will have your own journey success coach at the end of Makers and you can book them for a one-to-one conversation when you need it.
-
-</details>
-
-__________________________________________________________________________________________________________________________________________________________
-
-
-<details>
-<summary>Who is Becks? You've mentioned her a few times now</summary>
-<br>
-    
-Becks is one of the journey success coaches. You can see her background and connect wither her on [LinkedIn here](www.linkedin.com/in/beckshookham).
-
-You'll meet her in workshops later down the course and she's written a lot of the content you read about job hunting. If you have any questions, concerns or just want to have a career-related conversation and you're not sure who you should ask - always ask @becks. 
-
-You can find her on Slack on @becks or email becks@makers.tech
-
-</details>
 
 
 __________________________________________________________________________________________________________________________________________________________
+
 
 <details>
 <summary>What is the STAR technique?</summary>
