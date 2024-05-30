@@ -3,7 +3,7 @@
 
 _________________________________________________________________________________________
 **TL; DR**
-* Please fork and complete this [CV template]([https://github.com/BecksHookham/Github_CV/blob/main/template.md](https://github.com/makersacademy/CV))
+* Please fork and complete this [CV template](https://github.com/makersacademy/CV)
 * This task should take you at least two hours
 * You'll find some recorded CV walkthroughs within this guide.
 _________________________________________________________________________________________
@@ -37,7 +37,7 @@ Read through each step before you begin and be aware that there are some FAQs at
 <summary> Step 1: Fork This Repo </summary>
 <br>
 
-   https://github.com/BecksHookham/Github_CV/blob/main/template.md
+   https://github.com/makersacademy/CV
 
         Please don't rename the repo - leave it as /cv
   
