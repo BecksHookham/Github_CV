@@ -112,7 +112,6 @@ ________________________________________________________________________________
 
 [TED TALK How To Write Less But Say More](https://www.youtube.com/watch?v=v6BmurUpiN0)
 
-[Blogging pill](https://github.com/makersacademy/pre_course/blob/main/pills/blogging.md)
 
 __________________________________________________________________________________________________________________________________________________________
 
@@ -182,7 +181,7 @@ ________________________________________________________________________________
 
 👉 **Get Organised** Bookmark this link so that you can come back to it at the end of the course for review.
 
-👉 **Keep your Github looking fresh** As you go through Makers, spend some time [writing good READMEs](https://github.com/makersacademy/pre_course/blob/main/cv/clean_your_github.md) for each project and pinning your projects to Github. This is the kind of material hiring managers like to look at.
+👉 **Keep your Github looking fresh** As you go through Makers, spend some time writing good READMEs for each project and pinning your projects to Github. This is the kind of material hiring managers like to look at.
 
 👉 **Write a blog** Employers are genuinely interested in your career change stories and are usually impressed to interview Makers who have written blogs about their technical and personal journey through Makers. An idea to blog can only become real if you dedicate time to writing even when you don’t feel like it. Book a meeting with yourself now to think about writing your blog and how you are going to set aside time to write it.
 
@@ -306,7 +305,7 @@ ________________________________________________________________________________
 <summary>What skills do hiring managers look for?</summary>
 <br>
 
-We've put together some thoughts from hiring managers on [what makes a good developer](https://github.com/makersacademy/jobhunters/blob/main/pills/TechCV/what_makes_a_good_developer.md)
+We've put together some thoughts from hiring managers on [what makes a good developer](https://github.com/BecksHookham/Github_CV/blob/main/what_makes_a_good_dev.md)
 
 </details>
 
@@ -329,8 +328,6 @@ ________________________________________________________________________________
 We love when you come straight from education to Makers. Those of you who choose this path are always driven and excited about building a big career. It's such a great time to train in software because you have your whole professional lives to grow. 
 
 You do have experience to write about. It just won't be about work experience. Write about your education, clubs, societies, volunteering, really anything you think makes you uniquely you. If you have had a part-time job in retail or similar then include this. You will have lots of skills to demonstrate including customer service and working under pressure.
-
-A journey success coach will help you refine your CV once you have your ideas down. 
 
 </details>
 
